@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+
+}
+
+main {
+    display: flex;
+
+}
+
+.menu nav ul {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    list-style-type: none;
+    align-items: center;
+    height: 50px;
+
+}
+
+.delivery {
+    background-image: url("img/delivery.jpg");
+    width: 490px;
+    height: 350px;
+}
+
+h2 {
+    color: firebrick;
+}
+
+span {
+    color: white;
+
+}
+
+.podio {
+    display: flex;
+
+}
